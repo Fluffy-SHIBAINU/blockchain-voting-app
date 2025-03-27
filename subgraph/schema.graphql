@@ -1,0 +1,11 @@
+type Proposal @entity {
+  id: ID!
+  name: String!
+  voteCount: Int!
+}
+
+type Vote @entity {
+  id: ID!
+  voter: String!
+  proposal: Proposal!
+}
