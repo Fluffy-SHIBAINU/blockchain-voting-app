@@ -120,5 +120,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📞 Contact
 
-For questions or collaboration, reach out to `your.email@example.com` or create an issue on GitHub.
+For questions or collaboration, reach out to `mysecretemail` or create an issue on GitHub.
 
